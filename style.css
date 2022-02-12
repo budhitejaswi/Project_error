@@ -1,0 +1,24 @@
+body
+{
+	text-align: center;
+	background-color: antiquewhite;
+	padding: 25px;
+}
+span
+{
+	font-size: 18px;
+	color: rgb(95, 81, 116);
+	font-family: cursive;
+	font-size: 25px;
+}
+canvas
+{
+	background: rgb(206, 170, 218);
+	border-radius: 20px;
+}
+
+h3{
+	font-family: fantasy;
+	color:rgb(69, 69, 124);
+	font-size:35px;
+}
